@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 📌 About Me:
 Homelab DevOps stuff for fun. <br>Background in Windows Server and PowerShell.<br>Learning Python. 
 - 🔭 I’m currently working on building my new homelab. 
 - 🌱 I’m currently learning Python
